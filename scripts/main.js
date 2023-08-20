@@ -15,8 +15,5 @@ console.log(btnValiderMot);
 const divZoneProposition = document.querySelector(".zoneProposition");
 console.log(divZoneProposition);
 
-const spanScore = document.querySelector(".zoneScore span");
-console.log(spanScore);
-
 const ListeBtnRadio = document.querySelectorAll(".optionSource input");
 console.log(ListeBtnRadio);
